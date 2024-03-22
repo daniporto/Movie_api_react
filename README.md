@@ -2,6 +2,8 @@
 
 This project was with [Create React App](https://github.com/facebook/create-react-app).
 
+Is a simple website using react. Js, API from rapidapi.com/imdb for searches movies and Tv shows where you can see the front page of the movie, category and year of the movie.
+
 ## Available Scripts
 
 In the project directory, you can run:
