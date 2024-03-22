@@ -1,0 +1,56 @@
+* {
+    margin: 5px;
+    padding: 15px;
+    box-sizing: border-box;
+    background-color: rgb(242, 255, 183);
+    align-content: center;
+    
+
+}
+input {
+    margin-inline: 1rem;
+    margin-block: 2rem;
+    width: 700px;
+    padding: 15px;
+    align-content: center;
+   
+  
+}
+button {
+    padding: 15px;
+    color: rgb(48, 21, 2);
+}
+.element {
+    margin-block: 2rem;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    align-items: center;
+    justify-content: center;
+    gap: 4rem;
+
+}
+.element img{
+    max-width: 250px;
+    border-radius: 2px;
+    
+}
+
+.element-div {
+    border: 3px solid #000;
+    margin: 0 auto;
+    height: 570px;
+    padding: 40px;
+}
+p {
+    margin: 0 auto;
+    color: rgb(20, 20, 20);
+    font-weight: 700;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    padding-left: 350px;
+   
+}.box input{
+    margin-left:315px;
+}
